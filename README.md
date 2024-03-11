@@ -1,4 +1,8 @@
 ### Chanomhub Official
+[1]Developer: Crypticday
+[2]Admin: Crypticday, S
+[2]Creator: Crypticday, S
+
 
 <!--
 **Chanomhub/Chanomhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
