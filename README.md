@@ -1,4 +1,4 @@
-### Chanomhub Official
+### Chanomhub Official Project
 <br>
 [1]Developer: Crypticday
 <br>
