@@ -1,6 +1,9 @@
 ### Chanomhub Official
+<br>
 [1]Developer: Crypticday
+<br>
 [2]Admin: Crypticday, S
+<br>
 [2]Creator: Crypticday, S
 
 
