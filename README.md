@@ -5,8 +5,7 @@
 <br>
 [2]Admin: Crypticday, S
 <br>
-<br>
-[2]Creator: Crypticday, S
+
 
 
 <!--
