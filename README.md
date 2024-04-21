@@ -2,16 +2,7 @@
 <br>
 [1]Developer: Crypticday
 <br>
-### All the main tools for developing all projects.
-<br>
-- [OSS-Fuzz](https://github.com/google/oss-fuzz)
-<br>
-- [Snyk](https://snyk.io/)
-<br>
-- [Github](https://github.com/)
-<br>
-- [Gitlab][https://gitlab.com/)
-<br>
+
 
 
 
