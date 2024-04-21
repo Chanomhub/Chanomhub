@@ -1,10 +1,8 @@
-### Chanomhub Official Project
+### Chanomhub Official
 <br>
 [1]Developer: Crypticday
 <br>
-<br>
-[2]Admin: Crypticday, S
-<br>
+##
 
 
 
