@@ -1,4 +1,4 @@
-### Chanomhub Official
+### Chanomhub Official 🥂🍺🍻
 
 [![Chanomhub's GitHub | Languages Over Time](https://stats.quine.sh/Chanomhub/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Chanomhub)
 
